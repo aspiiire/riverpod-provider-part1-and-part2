@@ -2,7 +2,13 @@
 
 # Riverpod Provider Example
 
-[![Riverpod Provider Tutorial](https://img.youtube.com/vi/HbrtQYEPsoo/0.jpg)](https://www.youtube.com/watch?v=HbrtQYEPsoo)
+Related Video about how to install Riverpod:
+
+[![Riverpod Install Tutorial](https://img.youtube.com/vi/HbrtQYEPsoo/0.jpg)](https://www.youtube.com/watch?v=HbrtQYEPsoo)
+
+The exact code of this video:
+
+[![Riverpod Provider Tutorial](https://img.youtube.com/vi/fK3FhVu0ivI/0.jpg)](https://www.youtube.com/watch?v=fK3FhVu0ivI)
 
 ## Description
 
